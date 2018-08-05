@@ -1,5 +1,5 @@
 import unittest
-from src.TapeEquilibrium import solution
+from src.tape_equilibrium import solution
 
 class TestTapeEquilibrium(unittest.TestCase):
 
